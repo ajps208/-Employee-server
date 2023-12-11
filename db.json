@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin user",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "2",
+      "name": "Ajith PS",
+      "email": "ps.ajith.208@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "kay",
+      "email": "kay@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "5",
+      "name": "eren",
+      "email": "eren@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "18",
+      "name": "mikasa",
+      "email": "mikasa@gmail.com",
+      "active": "1"
+    }
+  ]
+}
